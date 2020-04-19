@@ -4,7 +4,7 @@ spring:
       enabled: always
   data:
     mongodb:
-      uri: mongodb+srv://vvrurlshrinker:123@vvr-url-shrinker-lukds.mongodb.net/vvrurlshrinker?retryWrites=true&w=majority
+      uri: mongodb+srv://vvrurlshrinker:vvrurlshrinker@vvr-url-shrinker-lukds.mongodb.net/vvrurlshrinker?retryWrites=true&w=majority
       database: vvrurlshrinker
 
 server:
